@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">언어 런타임 변경</string>
+    <string name="hello">여보세요</string>
+    <string name="vampy_tutorial">뱀피 튜토리얼</string>
+    <string name="change_lang">언어 런타임 변경</string>
+</resources>

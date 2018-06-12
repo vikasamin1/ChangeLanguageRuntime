@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Changer le langage d\'exécution</string>
+    <string name="hello">Bonjour</string>
+    <string name="vampy_tutorial">Tutoriel Vampy</string>
+    <string name="change_lang">Changer le langage d\'exécution</string>
+</resources>

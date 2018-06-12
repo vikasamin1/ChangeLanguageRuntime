@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dil Çalışma Zamanını Değiştirin</string>
+    <string name="hello">Merhaba</string>
+    <string name="vampy_tutorial">Vampy Eğitimi</string>
+    <string name="change_lang">Dil Çalışma Zamanını Değiştirin</string>
+</resources>

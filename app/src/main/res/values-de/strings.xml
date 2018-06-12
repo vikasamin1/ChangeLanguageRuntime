@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ändern Sie die Sprachenlaufzeit</string>
+    <string name="hello">Hallo</string>
+    <string name="vampy_tutorial">Vampy Tutorial</string>
+    <string name="change_lang">Ändern Sie die Sprachenlaufzeit</string>
+</resources>

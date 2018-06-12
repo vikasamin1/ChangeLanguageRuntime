@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">更改语言运行时</string>
+    <string name="hello">你好</string>
+    <string name="vampy_tutorial">吸血鬼教程</string>
+    <string name="change_lang">更改语言运行时</string>
+</resources>

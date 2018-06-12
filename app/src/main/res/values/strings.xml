@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">ChangeLanguageRuntime</string>
+    <string name="hello">Hello</string>
+    <string name="vampy_tutorial">Vampy Tutorial</string>
+    <string name="change_lang">Change Language Runtime</string>
+</resources>
